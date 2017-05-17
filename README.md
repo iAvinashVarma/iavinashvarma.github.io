@@ -1,0 +1,1 @@
+This repository contains the code of Avinash Varma Kalidindi - .NET Developer
